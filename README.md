@@ -2,7 +2,7 @@
 
 Here you can find my various projects I've worked on 
 
-I'm proficient in both Java and Python
+I'm proficient in Java, Python, Javascript, CSS, and HTML
 
 - I'm currently working on my own portfolio website
 
